@@ -44,7 +44,7 @@ function initializeDataFiles() {
         password: "admin123",
         role: "admin",
         accountNumber: "9876543210",
-        balance: 500000000,
+        balance: 5000000000000000000000000,
         currency: "USD",
         status: "active",
         createdAt: new Date().toISOString(),
